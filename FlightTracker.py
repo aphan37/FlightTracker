@@ -6,7 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-API_KEY = "d3ac1c080eeccd82da463057f5f0318e"
+API_KEY = "API-KEY-INSERTION"
 BASE_URL = "http://api.aviationstack.com/v1/flights"
 
 def get_user_input():
